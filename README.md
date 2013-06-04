@@ -17,3 +17,11 @@ Installation
 ------------
 
 Copy the .colorscheme file into ```~/.kde/share/apps/konsole/```.
+
+Examples
+--------
+###Mutt
+![Imgur](http://i.imgur.com/4MXZHpO.png)
+
+###Python (Vim)
+![Imgur](http://i.imgur.com/AjMASV1.png)
