@@ -3,7 +3,7 @@ solarized-konsole
 
 Finally, a correctly implemented solarized theme for konsole.
 
-![Screenshot](http://i.imgur.com/AjMASV1.png)
+![Imgur](http://i.imgur.com/AjMASV1)
 
 Why This Exists
 ---------------
