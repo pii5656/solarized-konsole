@@ -1,5 +1,5 @@
 solarized-konsole
-======================
+=================
 
 Finally, a correctly implemented solarized theme for konsole.
 
@@ -17,9 +17,3 @@ Installation
 ------------
 
 Copy the .colorscheme file into ```~/.kde/share/apps/konsole/```.
-
-TO DO
------
-
- - Light variant.
- - Fix blue cursor in vim.
