@@ -3,7 +3,7 @@ solarized-konsole
 
 ~~Finally, a correctly implemented solarized theme for konsole.~~
 
-*I've decided to deprecate this repo in favor of https://github.com/phiggins/konsole-colors-solarized*
+**I've decided to deprecate this repo in favor of https://github.com/phiggins/konsole-colors-solarized**
 
 Why This Exists
 ---------------
